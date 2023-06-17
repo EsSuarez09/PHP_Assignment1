@@ -8,7 +8,12 @@ git remote add origin https://github.com/MariaEs09/PHP_Assignment1.git
 git push -u origin main
 
 
-…or push an existing repository from the command line
-git remote add origin https://github.com/MariaEs09/PHP_Assignment1.git
-git branch -M main
+#after change if you want to upload code then do below
+
+git add.
+git commit -m "updated css"
 git push -u origin main
+
+
+  git config --global user.email "200545408@student.georgianc.on.ca"
+  git config --global user.name "MariaEs09"
