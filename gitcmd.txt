@@ -10,7 +10,7 @@ git push -u origin main
 
 #after change if you want to upload code then do below
 
-git add.
+git add .
 git commit -m "updated css"
 git push -u origin main
 
