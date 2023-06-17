@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+    
+}
+
+
+
+.banner{
+    height: 300px !important;
+    width: 100%;
+}
+.centered-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .centered-image img {
+    max-width: 100%;
+    max-height: 100%;
+  }
