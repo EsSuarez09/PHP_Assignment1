@@ -8,7 +8,7 @@
 
     <div class="row">
         <div class="col-md-12 centered-image " >
-            <img src="image/mariabanner.png" class="img-fluid" alt="..." style=" height: 300px !important;">
+            <img src="image/mariabanner.jpg" class="img-fluid" alt="..." style=" height: 300px !important;">
         </div>
    </div>
 
@@ -16,7 +16,7 @@
         <div class="col-md-12">
             <div class="card">
                 <div class="card-header">
-                    <h4>Student Details
+                    <h4 class="add-student-heading">Student Details
                         <a href="student-create.php" class="btn-btn-primary float-end">Add Students</a>
                     </h4>
                 </div>
